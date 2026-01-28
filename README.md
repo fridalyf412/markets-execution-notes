@@ -3,7 +3,7 @@
 A lightweight, repeatable daily routine to build execution intuition in liquid markets:
 **what moved, why it likely moved, what risks matter next, and what to watch for execution.**
 
-## What this is (and is not)
+## What this is
 - A disciplined template for summarizing market drivers, risks, and key levels
 - Practice clear, client-ready communication under time pressure
 
